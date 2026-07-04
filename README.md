@@ -11,4 +11,4 @@ A simple, multi-file command-line Expense Tracker written in C. This project sep
 Run the following command in your terminal:
 ```bash
 gcc -Iinclude src/main.c src/tracker.c -o tracker
-.\tracker```
+.\tracker
